@@ -11,3 +11,7 @@
 
 this is a E commerce platform and i develop this. and now i am learning how to complete this project
 
+ok i add my name 
+
+<p>my name is shahidul islam shovon</p>
+
